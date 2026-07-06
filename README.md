@@ -190,7 +190,7 @@ SchemeSense combines OCR-based document digitization with NLP-driven information
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shananu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="[https://github-profile-trophy.vercel.app/?username=shananu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8](https://github-trophies.vercel.app/?username=shananu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)" />
 
 </div>
 
