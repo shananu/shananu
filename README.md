@@ -79,23 +79,6 @@ I approach engineering with a **product mindset** — every system I build is ev
 
 ---
 
-## 🧠 AI / ML Expertise
-
-<!-- <div align="center"> -->
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Ensemble modeling (CatBoost, LightGBM, XGBoost, HistGradientBoosting), OOF-weight optimization |
-| **Feature Engineering** | ⭐⭐⭐⭐⭐ | Lag features, cyclic time encoding, hierarchical target encoding, interaction features |
-| **NLP** | ⭐⭐⭐⭐☆ | Text preprocessing, information extraction, applied NLP pipelines |
-| **OCR / Computer Vision** | ⭐⭐⭐⭐☆ | Document parsing, OCR pipelines integrated with downstream NLP |
-| **EDA & Statistical Analysis** | ⭐⭐⭐⭐⭐ | Deep exploratory analysis for large-scale tabular competition datasets |
-| **Model Deployment** | ⭐⭐⭐☆☆ | Packaging and serving ML models within full stack applications |
-
-<!-- </div> -->
-
----
-
 ## 🚀 Featured Projects
 
 <details>
@@ -194,7 +177,6 @@ SchemeSense combines OCR-based document digitization with NLP-driven information
 
 </div> -->
 
----
 
 ## 📈 Contribution Activity
 
