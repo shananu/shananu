@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=250&section=header&text=Anushka&fontSize=70&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:2E1065,100:6D28D9&height=250&section=header&text=Anushka-Shanker&fontSize=70&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
 
 <a href="#">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+at+Scale;Full+Stack+%2B+AI%2FML+Engineer;Java+%7C+MERN+%7C+NLP+%7C+OCR;Competitive+Programmer+%7C+DSA+Enthusiast;Open+to+SDE+%2F+AI+Engineer+Roles" alt="Typing SVG" />
