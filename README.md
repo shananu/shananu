@@ -14,10 +14,10 @@
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=firefox&logoColor=A78BFA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-1E1B4B?style=for-the-badge&logo=firefox&logoColor=A78BFA" /></a> -->
+<a href="https://www.linkedin.com/in/shanker-anushka/"><img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="mailto:anushkashanker424@gmail.com"><img src="https://img.shields.io/badge/Email-1E1B4B?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+<a href="https://github.com/shananu"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
 
 <br/><br/>
 
@@ -67,21 +67,21 @@ I approach engineering with a **product mindset** — every system I build is ev
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" />
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vscode,postman,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman&theme=dark" />
 
 ---
 
 ## 🧠 AI / ML Expertise
 
-<div align="center">
+<!-- <div align="center"> -->
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
@@ -92,7 +92,7 @@ I approach engineering with a **product mindset** — every system I build is ev
 | **EDA & Statistical Analysis** | ⭐⭐⭐⭐⭐ | Deep exploratory analysis for large-scale tabular competition datasets |
 | **Model Deployment** | ⭐⭐⭐☆☆ | Packaging and serving ML models within full stack applications |
 
-</div>
+<!-- </div> -->
 
 ---
 
@@ -111,7 +111,7 @@ A production-ready **cloud storage platform** inspired by Google Drive and Dropb
 | **Performance** | Efficient file upload/download pipeline with optimized database access |
 | **Security** | JWT Authentication, Role-Based Access Control, Global Exception Handling, Input Validation |
 | **Impact** | Demonstrates enterprise backend architecture and scalable REST API development |
-| **Repository** | [View Repository](#) |
+| **Repository** | [View Repository](https://github.com/shananu/cloudnest) |
 
 CloudNest provides a complete backend for secure cloud storage, supporting authenticated file uploads, downloads, renaming, deletion, metadata management, and ownership-based authorization. Designed using layered architecture with reusable service components, centralized exception handling, and production-grade API practices, making it a strong showcase of backend engineering skills.
 
@@ -132,7 +132,7 @@ An intelligent interview platform that simulates **real technical coding intervi
 | **Performance** | Optimized backend APIs for real-time interview interactions |
 | **Security** | JWT Authentication, Secure Session Management, Input Validation |
 | **Impact** | Automates technical interview practice with AI-driven feedback and evaluation |
-| **Repository** | [View Repository](#) |
+| **Repository** | [View Repository](https://github.com/iam-akshat01/AI-DSA-Interviewer) |
 
 Designed a modular backend powering an AI interviewer capable of guiding candidates through problem understanding, approach discussion, coding, code review, and final evaluation. The platform maintains interview history, generates structured reports, and integrates AI agents into a scalable REST architecture, closely resembling real-world software engineering interviews.
 
@@ -153,7 +153,7 @@ An AI-assisted platform that helps users discover **government schemes they qual
 | **Performance** | ~85% OCR extraction accuracy with eligibility results generated in under 2 seconds |
 | **Security** | JWT Authentication, Secure Document Uploads, Input Validation |
 | **Impact** | Simplifies access to government welfare schemes through intelligent automation |
-| **Repository** | [View Repository](#) |
+| **Repository** | [View Repository](https://github.com/shananu/schemesense) |
 
 SchemeSense combines OCR-based document digitization with NLP-driven information extraction to automatically identify user attributes and match them against government scheme eligibility criteria. Built for the Meta OpenEnv Hackathon, the platform reduces manual verification effort while delivering fast, explainable recommendations through a scalable AI-powered backend.
 
@@ -186,13 +186,13 @@ SchemeSense combines OCR-based document digitization with NLP-driven information
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="[https://github-profile-trophy.vercel.app/?username=shananu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8](https://github-trophies.vercel.app/?username=shananu&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8)" />
 
-</div>
+</div> -->
 
 ---
 
